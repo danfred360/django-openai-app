@@ -1,0 +1,3 @@
+CREATE USER homework;
+CREATE DATABASE homework;
+GRANT ALL PRIVILEGES ON DATABASE homework TO homework;
